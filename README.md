@@ -34,14 +34,14 @@ Install required dependencies:
 pip install opencv-python mediapipe autopy
 
 Execution
-🛠 Install dependencies.
-🎥 Run the script to start gesture-based cursor control.
-🖱 Use hand gestures to control the cursor.
-🏁 Exit the program with a key press.
+🛠 Install dependencies
+🎥 Run the script to start gesture-based cursor control
+🖱 Use hand gestures to control the cursor
+🏁 Exit the program with a key press
 Results
-✅ CNN Accuracy: 84% (test dataset).
-🎯 MediaPipe Integration: Improved real-time performance.
-🖱 Gesture-based cursor control successfully implemented.
+✅ CNN Accuracy: 84% (test dataset)
+🎯 MediaPipe Integration: Improved real-time performance
+🖱 Gesture-based cursor control successfully implemented
 Authors
 👤 Preethi Ranganathan - prangana@gmu.edu
 👤 Swapneel Suhas Vaidya - svaidya4@gmu.edu
