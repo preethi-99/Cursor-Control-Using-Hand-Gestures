@@ -28,21 +28,28 @@ This project enables **touchless cursor control** using **hand gestures**, lever
 
 ---
 
-## **Installation**
+## **Installation** 
 Install required dependencies:
 ```bash
 pip install opencv-python mediapipe autopy
-
-Execution
+```
+## **Execution**
+```bash
 🛠 Install dependencies
 🎥 Run the script to start gesture-based cursor control
 🖱 Use hand gestures to control the cursor
 🏁 Exit the program with a key press
-Results
+```
+## **Results**
+```bash
 ✅ CNN Accuracy: 84% (test dataset)
 🎯 MediaPipe Integration: Improved real-time performance
 🖱 Gesture-based cursor control successfully implemented
-Authors
+```
+
+## **Authors**
+```bash
 👤 Preethi Ranganathan - prangana@gmu.edu
 👤 Swapneel Suhas Vaidya - svaidya4@gmu.edu
 👤 Gagandeep Patil - gpatil2@gmu.edu
+```
